@@ -1,3 +1,3 @@
-# Movie Ap 2019
+# Movie App 2022
 
-React JS
+React class 문법 공부 및 연습
